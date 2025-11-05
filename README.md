@@ -5,7 +5,7 @@ It also includes an **interactive Streamlit web app** that allows users to uploa
 
 ---
 
-## 📋 Features
+## Features
 
 ✅ Automatic dataset split (train, validation, test)
 ✅ Deep learning model using **MobileNetV2**
@@ -16,7 +16,7 @@ It also includes an **interactive Streamlit web app** that allows users to uploa
 
 ---
 
-## 🧠 Classes
+## Classes
 
 The model can classify images into the following 6 waste categories:
 
@@ -29,7 +29,7 @@ The model can classify images into the following 6 waste categories:
 
 ---
 
-## 🧩 Project Structure
+##  Project Structure
 
 ```
 garbageClassification-Pytorch/
@@ -46,28 +46,28 @@ garbageClassification-Pytorch/
 
 ---
 
-## ⚙️ Installation & Usage
+## Installation & Usage
 
-### 1️⃣ Clone the repository
+### Clone the repository
 
 ```bash
 git clone https://github.com/<username>/garbage-classification-pytorch.git
 cd garbage-classification-pytorch
 ```
 
-### 2️⃣ Install dependencies
+### Install dependencies
 
 ```bash
 pip install -r requirements.txt
 ```
 
-### 3️⃣ Run locally (Streamlit App)
+### Run locally (Streamlit App)
 
 ```bash
 streamlit run app.py
 ```
 
-### 4️⃣ Run training script (optional)
+### Run training script (optional)
 
 ```bash
 python garbage_classification_pytorch.py
@@ -75,7 +75,7 @@ python garbage_classification_pytorch.py
 
 ---
 
-## 🚀 Deployment
+## Deployment
 
 This project can be deployed easily using **Streamlit Community Cloud**.
 
@@ -86,7 +86,7 @@ This project can be deployed easily using **Streamlit Community Cloud**.
 
 ---
 
-## 📊 Model Performance
+## Model Performance
 
 |              Metric | Result                          |
 | ------------------: | ------------------------------- |
@@ -98,7 +98,7 @@ Confusion Matrix and Accuracy Plot are available in the training results.
 
 ---
 
-## 🧪 Example Prediction
+## Example Prediction
 
 Upload an image through the Streamlit web app, and the model will output:
 
@@ -107,7 +107,7 @@ Upload an image through the Streamlit web app, and the model will output:
 
 ---
 
-## 👨‍💻 Authors
+## Authors
 
 Developed by **Finn Team**
 Department of Informatics, [Mikroskil University]
